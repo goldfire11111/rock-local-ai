@@ -1,0 +1,10 @@
+# Local data: engine, models, logs, chat window profile
+data/
+
+# Build output (Rock.exe is published as a GitHub Release asset)
+build/
+*.exe
+*.spec
+
+__pycache__/
+*.pyc
